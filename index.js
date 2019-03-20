@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'MzM2NTc1MzMxNTcxODU5NDU2.DIYO9A.MYXp2DNtQagQQadME0dlrt4ukco';
+const token = '';
 const prefix = 'v!' //Set the prefix.
 var ping = require("./ping.js");
 var say = require("./say.js")
